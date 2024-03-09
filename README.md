@@ -3,6 +3,6 @@ Wine Internet Explorer for Macs
 
 After installing the app (unzipping and dragging the app to the Applications folder), run
 ```
-xattr -d com.apple.quarantine /Applications/Internet\ Explorer
+xattr -d com.apple.quarantine /Applications/Internet\ Explorer.app
 ```
 in the terminal to verify the app, as it is not signed.
